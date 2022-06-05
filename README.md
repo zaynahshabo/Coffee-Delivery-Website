@@ -13,4 +13,4 @@ Chai Dog Coffee & Tea - website
 - JavaScript
 - JQuery
 
-![cafe](https://www.canva.com/design/DAFCrT_wyJc/4f87uogCIHgX5ulYbjnRFA/watch?utm_content=DAFCrT_wyJc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![cafe](https://github.com/zaynahshabo/coffee-delivery-website/blob/main/Coffee%20Delivery%20GIF.gif)
