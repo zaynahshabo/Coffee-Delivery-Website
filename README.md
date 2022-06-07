@@ -4,7 +4,6 @@ Chai Dog Coffee & Tea - website
 
 ### Introduction
 #### Responsive website for coffee delivery service. Multiple breakpoints allow users to access on different types of devices with ease. 
-https://coffeedelivery.netlify.app/
 
 ### Technologies
 #### This page uses the following:
